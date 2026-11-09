@@ -1,0 +1,12 @@
+1. Install MongoDB Compass.
+2. Connect to mongodb://localhost:27017
+3. Create database: college
+4. Collection name: students
+5. Insert these three documents in the Documents tab:
+{"name":"Aarav Singh","course":"MCA","city":"Jaipur","marks":82}
+{"name":"Sara Khan","course":"BCA","city":"Delhi","marks":91}
+{"name":"Rohan Verma","course":"MCA","city":"Jaipur","marks":68}
+6. Filter: {"city":"Jaipur"}
+7. Edit one document using the pencil icon.
+8. Delete one document using the trash icon.
+9. Export Collection -> JSON.

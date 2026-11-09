@@ -1,0 +1,11 @@
+{
+  "name": "mongodb-crud-practical",
+  "version": "1.0.0",
+  "main": "crud.js",
+  "scripts": {
+    "start": "node crud.js"
+  },
+  "dependencies": {
+    "mongodb": "^6.17.0"
+  }
+}

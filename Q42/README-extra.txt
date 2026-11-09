@@ -1,0 +1,1 @@
+Install MongoDB Community Server and mongosh. Start the MongoDB service, open terminal and run `mongosh`, then execute commands.js one by one. MongoDB creates the database when data is first written; an empty database may not appear in show dbs.

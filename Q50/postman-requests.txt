@@ -1,0 +1,11 @@
+Base URL: http://localhost:3000
+
+GET    /api/students
+GET    /api/students/<id>
+POST   /api/students
+Body (raw JSON): {"name":"Altamash","course":"MCA","city":"Saharanpur","marks":88}
+PUT    /api/students/<id>
+Body (raw JSON): {"name":"Altamash Updated","marks":92}
+DELETE /api/students/<id>
+
+Use Postman Body -> raw -> JSON for POST and PUT.

@@ -1,0 +1,1 @@
+Run in mongosh after `use college`. If re-running, duplicates will be inserted; optionally clear the collection first with `db.students.deleteMany({})`.
